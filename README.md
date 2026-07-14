@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=900&color=1E2A4A&center=true&vCenter=true&width=520&height=40&v=2&lines=Building+AI-powered+workflows;Turning+manual+work+into+automation;AI+automations+for+real-world+HR;Making+HR+work+smarter+with+AI" alt="Building AI-powered workflows. Turning manual work into automation. AI automations for real-world HR. Making HR work smarter with AI."/>
+<img src="assets/tagline.svg" alt="Building AI-powered workflows. Turning manual work into automation. AI automations for real-world HR. Making HR work smarter with AI." width="850"/>
 
 </div>
 
@@ -42,7 +42,7 @@ Most of my work lives in private repos, but the green squares tell the story.
 <div align="center">
 
 <a href="https://github.com/koralbonfil-maker/career-kit">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=koralbonfil-maker&repo=career-kit&hide_border=true&bg_color=00000000&title_color=1E2A4A&icon_color=1E40AF&text_color=3D4166" alt="career-kit: seven orchestrated AI skills that guide you through a job search end to end"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=koralbonfil-maker&repo=career-kit&hide_border=true&disable_animations=true&bg_color=00000000&title_color=1E2A4A&icon_color=1E40AF&text_color=3D4166" alt="career-kit: seven orchestrated AI skills that guide you through a job search end to end"/>
 </a>
 
 </div>
@@ -51,8 +51,7 @@ Most of my work lives in private repos, but the green squares tell the story.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=koralbonfil-maker&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E2A4A&icon_color=1E40AF&text_color=3D4166&count_private=true&include_all_commits=true&hide_rank=true&v=2" alt="GitHub stats" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=koralbonfil-maker&hide_border=true&background=00000000&ring=1E2A4A&fire=1E40AF&currStreakNum=1E2A4A&sideNums=1E2A4A&currStreakLabel=1E2A4A&sideLabels=8A94A6&dates=8A94A6&v=2" alt="GitHub streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=koralbonfil-maker&hide_border=true&background=00000000&ring=1E2A4A&fire=1E40AF&currStreakNum=1E2A4A&sideNums=1E2A4A&currStreakLabel=1E2A4A&sideLabels=8A94A6&dates=8A94A6&disable_animations=true" alt="GitHub contribution streak" height="180"/>
 
 </div>
 
