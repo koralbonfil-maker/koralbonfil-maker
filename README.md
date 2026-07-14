@@ -23,7 +23,7 @@ Some of what I've built:
 
 Most of my work lives in private repos, but the green squares tell the story.
 
-🌐 [koralbonfil.com](https://koralbonfil.com) · 📚 [learn.koralbonfil.com](https://learn.koralbonfil.com)
+🌐 [koralbonfil.com](https://koralbonfil.com) · 📚 [career-kit.koral.work](https://career-kit.koral.work/)
 
 ## Toolbox
 
