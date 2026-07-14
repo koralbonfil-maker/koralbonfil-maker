@@ -15,10 +15,11 @@
 I design AI-powered solutions for HR and recruiting work: systems of orchestrated skills, scripts, and workflows, each one built around a real process and designed to run it end to end.
 
 Some of what I've built:
-- A sourcing agent that finds and prioritizes candidates from live market signals
-- An automation that reads interview summaries and routes them to the right interviewer
+- A set of recruiting skills used by me and by hiring managers, covering the entire hiring flow
+- Tools that HR and employees use in their day to day
+- A browser extension that helps me source smarter
+- Full orchestration and automation of opening a new role, end to end
 - A seven-skill AI system that walks a person through an entire job search (that one is public: [career-kit](https://github.com/koralbonfil-maker/career-kit))
-- Websites designed, built, and deployed end to end
 
 Most of my work lives in private repos, but the green squares tell the story.
 
