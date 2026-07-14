@@ -12,7 +12,7 @@
 
 <img align="right" src="assets/koral-at-desk.png" width="260" alt="Illustration of Koral leaning back at her desk, laptop running code, with Tommy the chihuahua wearing a crown"/>
 
-I design AI-powered solutions for HR and recruiting work: systems of orchestrated skills, scripts, and workflows that automate whole processes from start to finish. Each one starts from a real problem and ends as a working product.
+I design AI-powered solutions for HR and recruiting work: systems of orchestrated skills, scripts, and workflows, each one built around a real process and designed to run it end to end.
 
 Some of what I've built:
 - A sourcing agent that finds and prioritizes candidates from live market signals
