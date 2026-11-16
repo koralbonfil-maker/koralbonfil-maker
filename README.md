@@ -38,16 +38,6 @@ Most of my work lives in private repos, but the green squares tell the story.
 
 </div>
 
-## Featured
-
-<div align="center">
-
-<a href="https://github.com/koralbonfil-maker/career-kit">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=koralbonfil-maker&repo=career-kit&hide_border=true&disable_animations=true&bg_color=00000000&title_color=1E2A4A&icon_color=1E40AF&text_color=3D4166" alt="career-kit: seven orchestrated AI skills that guide you through a job search end to end"/>
-</a>
-
-</div>
-
 ## Stats
 
 <div align="center">
